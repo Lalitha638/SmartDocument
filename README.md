@@ -59,3 +59,10 @@ uvicorn main:app --reload
 Open:
 
 http://127.0.0.1:8000
+#
+<img width="841" height="502" alt="SmartDoc_p0" src="https://github.com/user-attachments/assets/90870b7a-f9f0-43bd-84f5-afb8ae880253" />
+#
+<img width="842" height="509" alt="SmartDoc_p1" src="https://github.com/user-attachments/assets/ddaac071-a89d-4a00-a5cb-900ed58c01b1" />
+
+
+
