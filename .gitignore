@@ -1,0 +1,6 @@
+node_modules/ 
+backend/__pycache__/ 
+backend/chroma_db/ 
+backend/uploads/ 
+backend/.env 
+.idea/ 
